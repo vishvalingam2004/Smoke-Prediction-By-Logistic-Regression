@@ -6,7 +6,7 @@ Here Logistic Regression algorithm is used for predicting the target feature,For
 # ATTRIBUTES
 # Training Features
 'gender', 'age', 'marital_status', 'highest_qualification',
-       'nationality', 'ethnicity', 'gross_income', 'region'
+       'nationality', 'ethnicity', 'gross_income', 'region',
        'amt_weekends', 'amt_weekdays','type'.
 # Target Feature
 smoke
